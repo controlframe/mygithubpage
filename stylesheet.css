@@ -1,0 +1,64 @@
+<style>
+  .logo {
+
+  }
+  .bar {
+    font-family: 'Marmelad';
+    font-size: 18px;
+    color: #fff;
+    padding-left: 60px;
+  }
+
+  #hero {
+    background-color: #1E88E5;
+    padding-top: 150px;
+  }
+  .hero {
+    font-family: 'Marmelad';
+    color: #fff;
+  }
+  .hero1 {
+    font-size: 150px;
+  }
+  p {
+    font-family: 'Muli';
+    font-size: 16px;
+  }
+  .colhead {
+    font-family: 'Marmelad';
+    margin-top: -30px;
+  }
+  a:link {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #fff;
+  }
+  .icon {
+    font-size: 100px;
+  }
+  .smlicon {
+    font-size: 48px;
+  }
+
+  #section1 {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    color: #fff;
+    background-color: #1E88E5;
+  }
+  #section2 {
+    padding-top: 80px;
+    padding-bottom:100px;
+    color: #fff;
+    background-color: #673ab7;
+
+  }
+  #section3 {
+    padding-top: 50px;
+    padding-bottom:50px;
+    color: #fff;
+    background-color: #009688;
+}
+</style>
